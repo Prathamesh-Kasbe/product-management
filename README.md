@@ -17,6 +17,9 @@ This is a reactive microservice built with Quarkus to manage products via RESTfu
 - Check stock availability (`/products/{id}/stock?count=10`)
 - Get products sorted by price (`/products/sorted`)
 - 85%+ test coverage for Resources using Quarkus test framework
+- Additional endpoints created:
+   - To Add Multiple Products at a time
+   - To get the products based on range
 
 ## 🛠️ Setup Instructions
 
